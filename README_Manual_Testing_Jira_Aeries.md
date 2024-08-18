@@ -24,12 +24,12 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 
 <br>
 
-![Bordered Story 2](https://github.com/user-attachments/assets/1ef5e73d-3842-4b02-9d95-6268772aa790)
+![Story 1](https://github.com/user-attachments/assets/1ef5e73d-3842-4b02-9d95-6268772aa790)
 
 
 <br>
 
-![Bordered Story 3](https://github.com/user-attachments/assets/7485e107-c832-4e0a-9b25-7649ab2e861e)
+![Story 2](https://github.com/user-attachments/assets/7485e107-c832-4e0a-9b25-7649ab2e861e)
 
 <br>
 <br>
@@ -63,17 +63,17 @@ Following test execution, 3 bugs have been identified and for each a bug report 
 
 
 ###### Bug Report 1 ######
-![Bordered Bug 1](https://github.com/user-attachments/assets/c9a92523-1094-4db9-89fc-ef7e156139cd)
+![Bug 1](https://github.com/user-attachments/assets/c9a92523-1094-4db9-89fc-ef7e156139cd)
 
 
 
 ###### Bug Report 2 ######
-![Bordered Bug 2](https://github.com/user-attachments/assets/1b9996e4-14b9-41fa-8e70-f58386853f38)
+![Bug 2](https://github.com/user-attachments/assets/1b9996e4-14b9-41fa-8e70-f58386853f38)
 
 
 
 ###### Bug Report 3 ######
-![Bordered Bug 3](https://github.com/user-attachments/assets/b94f95ec-323e-4aa3-b289-94956bed86eb)
+![Bug 3](https://github.com/user-attachments/assets/b94f95ec-323e-4aa3-b289-94956bed86eb)
 
 
 <br>
