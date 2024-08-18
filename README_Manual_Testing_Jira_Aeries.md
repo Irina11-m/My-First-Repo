@@ -41,7 +41,9 @@ Check that a teacher logging in as an admin is able to restrict parent access to
 Following test execution, 3 bugs have been identified and for each a bug report was created:
 
 ![LIT-37 - Bug](https://github.com/user-attachments/assets/ae615988-cfda-4dc4-adc3-f7e04baaa219)
+
 ![LIT-40- Bug](https://github.com/user-attachments/assets/34c08475-4110-4f38-aa29-ef46ad7fc0a8)
+
 ![LIT-31 - Bug](https://github.com/user-attachments/assets/0cb1d1de-e63c-4e8d-b746-b67b7d966e7d)
 
 
