@@ -60,7 +60,15 @@ The Risk Matrix points to both Project and Products risks identified in relation
 
 ![image](https://github.com/user-attachments/assets/bfc8878c-dd1c-4ad7-9eb7-051b5cfe449c)
 
+Final Testing Conclusions:
 
+As part of this testing process, the functionality in scope for testing was the "Data Confirmation" form, whose analysis was divided into two stories, namely the "Data Confirmation Process as a Parent" and the "Data Confirmation Process as a Teacher/Admin".
+The environment used for testing is a demo application, which both parents and teacher can use to familiarize themselves with how the process works.
 
+In total, 16 tests have been executed which covered both stories and 3 bugs have been identified and reported.
 
-The three bugs found during testing significantly affect the data confirmation process, since parents can't input contact information for the student nor does the form remain read-only upon submission.
+The identified bugs are quite severe, since they affect a parent's ability to input and change data that is crucial for the wellbeing and security of the child, namely adding contact information for the student, including student's phone number and updating the list of contacts who afre authorized to act in the benefit of the student. Moreover, the submitted data can be temporarily edited, and although, upon page refresh the intially submitted data is kept, this can create confusion and further distrust in the overall confirmation process.
+
+From a teacher's perspective, no actual bugs have been discovered, since the teachers can perform the setup for the "Confirmation" process, can block a parent from having access to other portal tabs until they finish submitting the "Confirmation"form and they can emulate a parent during the "Confirmation" process.
+
+Therefore, the three bugs are critical and must be prioritized for fixing and re-testimng and a subsequent regression testing must be done for the entire "Confirmation" process to ensure that no other defects have been as part of the fix applied to the system.
