@@ -57,24 +57,22 @@ The following test conditions have been set for testing the "Data Confirmation" 
 * Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process
 * Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed
 
-  <br>
+<br>
 
 Following test execution, 3 bugs have been identified and for each a bug report was created:
 
-<br>
 
-
-##### Bug Report 1 #####
+###### Bug Report 1 ######
 ![Bordered Bug 1](https://github.com/user-attachments/assets/c9a92523-1094-4db9-89fc-ef7e156139cd)
 
 
 
-##### Bug Report 2 #####
+###### Bug Report 2 ######
 ![Bordered Bug 2](https://github.com/user-attachments/assets/1b9996e4-14b9-41fa-8e70-f58386853f38)
 
 
 
-##### Bug Report 3 #####
+###### Bug Report 3 ######
 ![Bordered Bug 3](https://github.com/user-attachments/assets/b94f95ec-323e-4aa3-b289-94956bed86eb)
 
 
@@ -83,7 +81,9 @@ Following test execution, 3 bugs have been identified and for each a bug report 
 ___Overall Status___
 
 An overall status can be observed in this Jira dashboard PieChart:
-![Jira PieChart Report](https://github.com/user-attachments/assets/a8cbaf5d-a3cd-4d61-8d4d-4a7f6d92d50e)
+![Bordered Jira PieChart Report](https://github.com/user-attachments/assets/3348f42f-05cb-4855-9490-bb8193a07fac)
+
+
 
 <br>
 
@@ -91,7 +91,9 @@ ___Traceability Matrix___
 
 The Traceability Matrix points to the story to which all three bugs are related, namely the "Student Data Confirmation Process as Parent"
 
-![Traceability Matrix](https://github.com/user-attachments/assets/22437061-c7a2-46e9-86aa-59c7d705af1f)
+![Bordered Traceability Matrix](https://github.com/user-attachments/assets/108e14c6-8771-439d-9dd9-76dda4759362)
+
+
 
 <br>
 
