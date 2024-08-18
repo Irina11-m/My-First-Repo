@@ -19,7 +19,7 @@ The two below stories were created in Jira to cover the Data Confirmation proces
 
 Testing Process:
 
-The following test conditions have been set for testing the "Data Confirmation" form:
+The following test conditions have been set for testing the "Data Confirmation" form and these tests have been performed as part of the Cycle Summary "Aeries_Data_Confirmation_Tests":
 
 Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
 Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
@@ -38,11 +38,15 @@ Check that all required admin setups are in place for the Data Confirmation Proc
 Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process
 Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed
 
+Following test execution, 3 bugs have been identified and for each a bug report was created:
 
-In total 16 test cases have been executed and 3 bugs have been identified for which a bug report was created:
+![LIT-37 - Bug](https://github.com/user-attachments/assets/ae615988-cfda-4dc4-adc3-f7e04baaa219)
+![LIT-40- Bug](https://github.com/user-attachments/assets/34c08475-4110-4f38-aa29-ef46ad7fc0a8)
+![LIT-31 - Bug](https://github.com/user-attachments/assets/0cb1d1de-e63c-4e8d-b746-b67b7d966e7d)
 
+
+An overall status can be observed in this Jira dashboard PieChart:
 ![Jira PieChart Report](https://github.com/user-attachments/assets/a8cbaf5d-a3cd-4d61-8d4d-4a7f6d92d50e)
-
 
 
 The Traceability Matrix points to the story to which all three bugs are related, namely the "Student Data Confirmation Process as Parent"
@@ -50,12 +54,11 @@ The Traceability Matrix points to the story to which all three bugs are related,
 ![Traceability Matrix](https://github.com/user-attachments/assets/22437061-c7a2-46e9-86aa-59c7d705af1f)
 
 
-
-The Risk Matrix points to both Project and Products risks identified in relation to this specific functionality as well as during the overall use of the Demo Parent and Admin Portals
+The Risk Matrix points to both Project and Products risks identified in relation to this specific functionality as well as during the overall use of the Demo Parent and Admin Portals:
 
 ![image](https://github.com/user-attachments/assets/bfc8878c-dd1c-4ad7-9eb7-051b5cfe449c)
 
 
 
 
-The three bugs found during testing significantly affect the data confirmatiion process, since parents can't input contact information for the student nor does the form remain read-only upon submission.
+The three bugs found during testing significantly affect the data confirmation process, since parents can't input contact information for the student nor does the form remain read-only upon submission.
