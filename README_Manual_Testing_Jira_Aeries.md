@@ -19,7 +19,8 @@ The two below stories were created in Jira to cover the Data Confirmation proces
 
 Testing Process:
 
-The following test conditions were found:
+The following test conditions have been set for testing the "Data Confirmation" form:
+
 Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
 Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
 Check that the Data Confirmation form is read-only after the confirmation process has been completed
@@ -52,7 +53,8 @@ The Traceability Matrix points to the story to which all three bugs are related,
 
 The Risk Matrix points to both Project and Products risks identified in relation to this specific functionality as well as during the overall use of the Demo Parent and Admin Portals
 
-![image](https://github.com/user-attachments/assets/9501b290-cf71-42d4-bb95-043fd715213d)
+![image](https://github.com/user-attachments/assets/4240a115-06d0-49b4-a764-6089de6f3975)
+
 
 
 The three bugs found during testing significantly affect the data confirmatiion process, since parents can't input contact information for the student nor does the form remain read-only upon submission.
