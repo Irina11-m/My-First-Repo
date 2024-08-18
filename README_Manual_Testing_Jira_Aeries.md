@@ -53,7 +53,8 @@ The Traceability Matrix points to the story to which all three bugs are related,
 
 The Risk Matrix points to both Project and Products risks identified in relation to this specific functionality as well as during the overall use of the Demo Parent and Admin Portals
 
-![image](https://github.com/user-attachments/assets/4240a115-06d0-49b4-a764-6089de6f3975)
+![image](https://github.com/user-attachments/assets/bfc8878c-dd1c-4ad7-9eb7-051b5cfe449c)
+
 
 
 
