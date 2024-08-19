@@ -59,7 +59,7 @@ The following test conditions have been set for testing the "Data Confirmation" 
 
 <br>
 
-Following test execution, 3 bugs have been identified and for each a bug report was created:
+Following test execution, 3 bugs have been identified and a bug report was created for each of them:
 
 
 ###### Bug Report 1 ######
