@@ -38,24 +38,90 @@ ___Testing Process:___
 
 <br>
 
-The following test conditions have been set for testing the "Data Confirmation" form and all tests have been performed as part of the Jira Cycle Summary "Aeries_Data_Confirmation_Tests":
+Testing was performed based on the following test conditions:
 
-* Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
+<br>
+
+
+* Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process    
+![LIT 28_Test Steps_Bordered](https://github.com/user-attachments/assets/a256ae4e-c933-41e1-a0b3-0513f2c8149a)
+
+<br>
+
 * Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
+![LIT 29_Test Steps_Bordered](https://github.com/user-attachments/assets/6ff58500-1955-43c9-b7f3-9180d9b07a4c)
+
+<br>
+
 * Check that the Data Confirmation form is read-only after the confirmation process has been completed
+![LIT 30_Test_Steps_Bordered](https://github.com/user-attachments/assets/533c565b-6bc3-44cb-8bf1-fa2649f018e0)
+
+<br>
+
 * In the "Family Information" section check that an error is thrown if an option has not been selected for each one of the surveys and the next step can't be reached
+![LIT 32_Test_Steps_Bordered](https://github.com/user-attachments/assets/841405c6-b8d6-4a93-99e8-a5e7421a817f)
+
+<br>
+
 * In the "Income" section check that, once the income has been submitted, a notification is displayed and no further changes can be made
+![LIT 33_Test_Steps_Bordered](https://github.com/user-attachments/assets/2b3948c3-a23d-4edf-8707-f6f01a86b865)
+
+<br>
+
 * In the "Income" section check that if an income is not selected a pop-up message is displayed to state that and ask for confirmation
+![LIT 34_Test_Steps_Bordered](https://github.com/user-attachments/assets/85fc6718-e9ef-4fe8-ae29-15fb234bb8a1)
+
+<br>
+
 * In the "Income" section check that the income figures are recalculated for the low, medium and high intervals based on the number of household members selected
+![LIT 35_Test_Steps_Bordered](https://github.com/user-attachments/assets/d5643b54-c902-4373-8389-e914a5074097)
+
+<br>
+
 * In the "Student" field check that a student mobile phone number can be added to the page
+![LIT 36_Test_Steps_Bordered](https://github.com/user-attachments/assets/1f366be1-c6d7-4da0-8170-127e4c118184)
+
+<br>
+  
+
 * In the "Contacts" section check that existing contact information can be edited or deleted and new contacts can be added to the list
+![LIT 38_Test_Steps_Bordered](https://github.com/user-attachments/assets/6fd5a489-0ba8-4bd5-bca2-830aa6b92c19)
+
+<br>
+  
 * In the "Medical History" section check that medical conditions can be assigned to the student or removed if they no longer apply
+![LIT 39_Test_Steps_Bordered](https://github.com/user-attachments/assets/201f4a7f-6a81-4051-b42e-126303e3cd4b)
+
+<br>
+
 * In the "Authorizations" section check that an error message is displayed if an option is not selected for the mandatory items and that data is successfully saved upon providing the required answer
+![LIT 41_1_Test_Steps_Bordered](https://github.com/user-attachments/assets/e621122f-f077-4833-b688-64a978c2efe6)
+![LIT 41_2_Test_Steps_Bordered](https://github.com/user-attachments/assets/d4c4cdde-7aae-4e34-bcbb-d9968979b141)
+
+<br>
+
 * In the "Documents" section check that an error message is displayed if the parent does not acknowledge required documents
+![LIT 47_Test_Steps_Bordered](https://github.com/user-attachments/assets/26d7aaba-97ba-43f2-a7d6-65f629736ed8)
+
+<br>
+
 * In the "Final Data Confirmation" section check that the printed/saved Emergency card has a correct format and contains the information specified during the Confirmation process
+![LIT 42_Test_Steps_Bordered](https://github.com/user-attachments/assets/a5d1218f-b2d7-4ae5-aa74-de802abab0ef)
+
+<br>
+
 * Check that all required admin setups are in place for the Data Confirmation Process
+![LIT 44_Test_Steps_Bordered](https://github.com/user-attachments/assets/6f689d61-67d4-4c36-9766-acb01542926f)
+
 * Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process
+![LIT 45_Test_Steps_Bordered](https://github.com/user-attachments/assets/f4f230d1-4d8f-40b1-b048-91920a975494)
+
+<br>
+
 * Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed
+![LIT 46_Test_Steps_Bordered](https://github.com/user-attachments/assets/fdcbf39e-36b7-4629-86c8-813707d6f336)
+
+
 
 <br>
 
