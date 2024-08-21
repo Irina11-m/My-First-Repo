@@ -184,4 +184,4 @@ The identified bugs are quite severe, since they affect a parent's ability to in
 
 From a teacher's perspective, no actual bugs have been discovered, since the teachers can perform the setup for the "Confirmation" process, can block a parent from having access to other portal tabs until they finish submitting the "Confirmation"form and they can emulate a parent during the "Confirmation" process.
 
-Therefore, the three bugs are critical and must be prioritized for fixing and re-testimng and a subsequent regression testing must be done for the entire "Confirmation" process to ensure that no other defects have been as part of the fix applied to the system.
+Therefore, the three bugs are critical and must be prioritized for fixing and re-testing and a subsequent regression testing must be done for the entire "Confirmation" process to ensure that no other defects have been produced by the fix applied to the system.
