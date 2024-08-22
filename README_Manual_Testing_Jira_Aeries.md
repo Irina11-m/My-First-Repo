@@ -16,7 +16,7 @@ The Tools used for managing the testing process are Jira and Zephyr Squad
 
 <br>
 
-___Functional Specifications:___
+___Jira Stories___
 
 <br>
 
@@ -34,16 +34,41 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 <br>
 <br>
 
-___Testing Process:___
+___Test Condition Analysis:___
 
 <br>
 
-Testing was performed based on the following test conditions:
+The following test conditions have been identified:
+
+1. Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
+2. Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
+3. Check that the Data Confirmation form is read-only after the confirmation process has been completed
+4. In the "Family Information" section check that an error is thrown if an option has not been selected for each one of the surveys and the next step can't be reached
+5. In the "Income" section check that, once the income has been submitted, a notification is displayed and no further changes can be made
+6. In the "Income" section check that if an income is not selected a pop-up message is displayed to state that and ask for confirmation
+7. In the "Income" section check that the income figures are recalculated for the low, medium and high intervals based on the number of household members selected
+8. In the "Student" field check that a student mobile phone number can be added to the page
+9. In the "Contacts" section check that existing contact information can be edited or deleted and new contacts can be added to the list
+10. In the "Medical History" section check that medical conditions can be assigned to the student or removed if they no longer apply
+11. In the "Authorizations" section check that an error message is displayed if an option is not selected for the mandatory items and that data is successfully saved upon providing the required answer
+12. In the "Documents" section check that an error message is displayed if the parent does not acknowledge required documents
+13. In the "Final Data Confirmation" section check that the printed/saved Emergency card has a correct format and contains the information specified during the Confirmation process
+14. Check that all required admin setups are in place for the Data Confirmation Process
+15. Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process
+16. Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed
+
 
 <br>
 
+#### *Test Execution*  ####
 
-* 1
+<br>
+
+As part of test execution, the following test cases have been generated based on the respective test conditions:
+
+<br>
+
+ 1.
 
 <br>
 
@@ -53,7 +78,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 2
+ 2.
 
 <br>
 
@@ -63,7 +88,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 3
+ 3.
 
 <br>
 
@@ -73,7 +98,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 4
+ 4.
 
 <br>
 
@@ -83,7 +108,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 5
+ 5.
 
 <br>
 
@@ -93,7 +118,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 6
+ 6.
 
 <br>
 
@@ -103,7 +128,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 7
+ 7.
 
 <br>
 
@@ -113,7 +138,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 8
+ 8.
 
 <br>
 
@@ -124,7 +149,7 @@ Testing was performed based on the following test conditions:
 <br>
   
 
-* 9
+ 9.
 
 <br>
 
@@ -134,7 +159,7 @@ Testing was performed based on the following test conditions:
 
 <br>
   
-* 10
+ 10.
 
 <br>
 
@@ -144,7 +169,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 11
+ 11.
 
 <br>
 
@@ -155,7 +180,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 12
+ 12.
 
 <br>
 
@@ -165,7 +190,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 13
+ 13.
 
 <br>
 
@@ -175,7 +200,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 14
+ 14.
 
 <br>
 
@@ -185,7 +210,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 15
+ 15.
 
 <br>
 
@@ -195,7 +220,7 @@ Testing was performed based on the following test conditions:
 
 <br>
 
-* 16
+ 16.
 
 <br>
 
@@ -206,23 +231,29 @@ Testing was performed based on the following test conditions:
 
 <br>
 
+#### *Bug Reports* ####
+
+<br>
+
 Following test execution, 3 bugs have been identified and a bug report was created for each of them:
 
+<br>
 
 ###### Bug Report 1 ######
 ![Bug 1](https://github.com/user-attachments/assets/c9a92523-1094-4db9-89fc-ef7e156139cd)
 
-
+<br>
 
 ###### Bug Report 2 ######
 ![Bug 2](https://github.com/user-attachments/assets/1b9996e4-14b9-41fa-8e70-f58386853f38)
 
-
+<br>
 
 ###### Bug Report 3 ######
 ![Bug 3](https://github.com/user-attachments/assets/b94f95ec-323e-4aa3-b289-94956bed86eb)
 
 
+<br>
 <br>
 
 ___Overall Status___
@@ -232,6 +263,7 @@ An overall status can be observed in this Jira dashboard PieChart:
 
 
 
+<br>
 <br>
 
 ___Traceability Matrix___
