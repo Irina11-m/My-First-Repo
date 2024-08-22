@@ -8,7 +8,7 @@ ___Short Description of the Tool and Functionality Under Test___
 
 Aeries is a Student Data Management System for California and Texas designed to facilitate day to day school matters for students, parents and teachers, who can access school data via separate portals.  
 
-Testing is focused on the Aeries Student Data Confirmation Process, a re-enrollment activity happening at the start of each school year and which is done via a Confirmation form that Parents must complete via the Parent Portal.
+Testing is focused on the Aeries Student "Data Confirmation" Process, a re-enrollment activity happening at the start of each school year and which is done via a "Confirmation" form that Parents must complete via the Parent Portal.
 
 The Testing Environments used for this process are the Aeries Demo Parent Portal and Aeries Demo Admin Portal
 
