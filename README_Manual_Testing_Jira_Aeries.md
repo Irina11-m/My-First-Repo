@@ -64,7 +64,7 @@ The following test conditions have been identified:
 
 <br>
 
-As part of test execution, the following test cases have been generated based on the respective test conditions:
+The following test cases have been generated and executed based on the respective test conditions:
 
 <br>
 
@@ -258,6 +258,8 @@ Following test execution, 3 bugs have been identified and a bug report was creat
 
 ___Overall Status___
 
+<br>
+
 An overall status can be observed in this Jira dashboard PieChart:
 ![Bordered Jira PieChart Report](https://github.com/user-attachments/assets/3348f42f-05cb-4855-9490-bb8193a07fac)
 
@@ -268,7 +270,11 @@ An overall status can be observed in this Jira dashboard PieChart:
 
 ___Traceability Matrix___
 
-The Traceability Matrix points to the story to which all three bugs are related, namely the "Student Data Confirmation Process as Parent"
+<br>
+
+The Traceability Matrix points to the story to which all three bugs are related, namely the "Student Data Confirmation Process as Parent":
+
+<br>
 
 ![Bordered Traceability Matrix](https://github.com/user-attachments/assets/108e14c6-8771-439d-9dd9-76dda4759362)
 
@@ -277,6 +283,8 @@ The Traceability Matrix points to the story to which all three bugs are related,
 <br>
 
 ___Risk Matrix___
+
+<br>
 
 The Risk Matrix points to both Project and Products risks identified in relation to this specific functionality as well as during the overall use of the Demo Parent and Admin Portals:
 
@@ -287,6 +295,8 @@ The Risk Matrix points to both Project and Products risks identified in relation
 <br>
 
 ___Final Testing Conclusions___
+
+<br>
 
 As part of this testing process, the functionality in scope for testing was the "Data Confirmation" form, whose analysis was divided into two stories, namely the "Data Confirmation Process as a Parent" and the "Data Confirmation Process as a Teacher/Admin".
 The environment used for testing is a demo application, which both parents and teacher can use to familiarize themselves with how the process works.
