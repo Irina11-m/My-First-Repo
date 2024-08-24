@@ -2,7 +2,7 @@
 
 <br>
 
-___Short Description of the Tool and Functionality Under Test___
+## *Short Description of the Tool and Functionality Under Test* ##
 
 <br>
 
@@ -16,7 +16,7 @@ The Tools used for managing the testing process are Jira and Zephyr Squad
 
 <br>
 
-___Jira Stories___
+## *Jira Stories* ##
 
 <br>
 
@@ -34,7 +34,7 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 <br>
 <br>
 
-___Test Condition Analysis:___
+## *Test Condition Analysis:* ##
 
 <br>
 
@@ -60,7 +60,7 @@ The following test conditions have been identified:
 
 <br>
 
-#### *Test Execution*  ####
+## *Test Execution*  ##
 
 <br>
 
@@ -231,7 +231,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
-#### *Bug Reports* ####
+## *Bug Reports* ##
 
 <br>
 
@@ -256,7 +256,7 @@ Following test execution, 3 bugs have been identified and a bug report was creat
 <br>
 <br>
 
-___Overall Status___
+## *Overall Status* ##
 
 <br>
 
@@ -268,7 +268,7 @@ An overall status can be observed in this Jira dashboard PieChart:
 <br>
 <br>
 
-___Traceability Matrix___
+## *Traceability Matrix* ##
 
 <br>
 
@@ -282,7 +282,7 @@ The Traceability Matrix points to the story to which all three bugs are related,
 
 <br>
 
-___Risk Matrix___
+## *Risk Matrix* ##
 
 <br>
 
@@ -294,7 +294,7 @@ The Risk Matrix points to both Project and Products risks identified in relation
 
 <br>
 
-___Final Testing Conclusions___
+## *Final Testing Conclusions* ##
 
 <br>
 
