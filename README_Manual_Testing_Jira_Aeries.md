@@ -34,7 +34,7 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 <br>
 <br>
 
-## *Test Condition Analysis and Test Execution:* ##
+## *Test Condition Analysis, Test Design and Test Execution:* ##
 
 <br>
 
