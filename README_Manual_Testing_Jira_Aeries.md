@@ -34,41 +34,15 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 <br>
 <br>
 
-## *Test Condition Analysis:* ##
+## *Test Condition Analysis and Test Execution:* ##
 
 <br>
 
-The following test conditions have been identified:
-
-1. Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
-2. Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
-3. Check that the Data Confirmation form is read-only after the confirmation process has been completed
-4. In the "Family Information" section check that an error is thrown if an option has not been selected for each one of the surveys and the next step can't be reached
-5. In the "Income" section check that, once the income has been submitted, a notification is displayed and no further changes can be made
-6. In the "Income" section check that if an income is not selected a pop-up message is displayed to state that and ask for confirmation
-7. In the "Income" section check that the income figures are recalculated for the low, medium and high intervals based on the number of household members selected
-8. In the "Student" field check that a student mobile phone number can be added to the page
-9. In the "Contacts" section check that existing contact information can be edited or deleted and new contacts can be added to the list
-10. In the "Medical History" section check that medical conditions can be assigned to the student or removed if they no longer apply
-11. In the "Authorizations" section check that an error message is displayed if an option is not selected for the mandatory items and that data is successfully saved upon providing the required answer
-12. In the "Documents" section check that an error message is displayed if the parent does not acknowledge required documents
-13. In the "Final Data Confirmation" section check that the printed/saved Emergency card has a correct format and contains the information specified during the Confirmation process
-14. Check that all required admin setups are in place for the Data Confirmation Process
-15. Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process
-16. Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed
-
+The following test cases have been generated and executed based on the identified test conditions:
 
 <br>
 
-## *Test Execution*  ##
-
-<br>
-
-The following test cases have been generated and executed based on the respective test conditions:
-
-<br>
-
- 1.
+ #### 1. Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process ####
 
 <br>
 
@@ -78,7 +52,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 2.
+ #### 2. Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process ####
 
 <br>
 
@@ -88,7 +62,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 3.
+ #### 3. Check that the Data Confirmation form is read-only after the confirmation process has been completed ####
 
 <br>
 
@@ -98,7 +72,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 4.
+ #### 4. In the "Family Information" section check that an error is thrown if an option has not been selected for each one of the surveys and the next step can't be reached ####
 
 <br>
 
@@ -108,7 +82,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 5.
+ #### 5. In the "Income" section check that, once the income has been submitted, a notification is displayed and no further changes can be made ####
 
 <br>
 
@@ -118,7 +92,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 6.
+ #### 6. In the "Income" section check that if an income is not selected a pop-up message is displayed to state that and ask for confirmation ####
 
 <br>
 
@@ -128,7 +102,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 7.
+ #### 7. In the "Income" section check that the income figures are recalculated for the low, medium and high intervals based on the number of household members selected ####
 
 <br>
 
@@ -138,7 +112,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 8.
+ #### 8. In the "Student" field check that a student mobile phone number can be added to the page ####
 
 <br>
 
@@ -149,7 +123,7 @@ The following test cases have been generated and executed based on the respectiv
 <br>
   
 
- 9.
+ #### 9. In the "Contacts" section check that existing contact information can be edited or deleted and new contacts can be added to the list ####
 
 <br>
 
@@ -159,7 +133,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
   
- 10.
+ #### 10. In the "Medical History" section check that medical conditions can be assigned to the student or removed if they no longer apply ####
 
 <br>
 
@@ -169,7 +143,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 11.
+ #### 11. In the "Authorizations" section check that an error message is displayed if an option is not selected for the mandatory items and that data is successfully saved upon providing the required answer ####
 
 <br>
 
@@ -180,7 +154,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 12.
+ #### 12. In the "Documents" section check that an error message is displayed if the parent does not acknowledge required documents ####
 
 <br>
 
@@ -190,7 +164,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 13.
+ #### 13. In the "Final Data Confirmation" section check that the printed/saved Emergency card has a correct format and contains the information specified during the Confirmation process ####
 
 <br>
 
@@ -200,7 +174,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 14.
+ #### 14. Check that all required admin setups are in place for the Data Confirmation Process ####
 
 <br>
 
@@ -210,7 +184,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 15.
+ #### 15. Check that a teacher logging in as an admin can emulate a parent performing the  Data Confirmation process ####
 
 <br>
 
@@ -220,7 +194,7 @@ The following test cases have been generated and executed based on the respectiv
 
 <br>
 
- 16.
+ #### 16. Check that a teacher logging in as an admin is able to restrict parent access to other portal tabs until the Data Confirmation process is completed ####
 
 <br>
 
