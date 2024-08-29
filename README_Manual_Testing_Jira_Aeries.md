@@ -41,10 +41,10 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 <h4>1.1.1. Roles asigned to the project</h4>
 
 <ul>
-  <li>Project manager</li> Tom Smith
-  <li>Product owner</li> Coleen Howard
-  <li>Software developer</li> Andrew Hay
-  <li>QA Engineer</li> Irina-Mihaela Luca
+  <li>Project manager -  Tom Smith</li>
+  <li>Product owner - Coleen Howard</li>
+  <li>Software developer - Andrew Hay</li>
+  <li>QA Engineer - Irina-Mihaela Luca</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
