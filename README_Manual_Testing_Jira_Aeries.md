@@ -61,6 +61,7 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 * Regression Testing to be finalized
 * Product Risks to be identified and mitigated
 * Test Completion Report to be sent to stakeholders
+  
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
@@ -132,7 +133,9 @@ The following test conditions have been identified upon reviewing the business r
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: 
+[embed]<file:///C:/Users/irina/OneDrive/Documents/IT%20Factory/Aeries/Jira/Jira%20Test%20Cases_Data%20Confirmation%20Process.pdf>[/embed]  
+**(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
 
 <h3>1.5 Test Implementation</h3>
 
