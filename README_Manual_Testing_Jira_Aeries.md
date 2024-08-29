@@ -74,6 +74,7 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 **(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
 * The testing process will not include other Parent Portal/Admin Portal functionalities.
 * No mobile testing will be done
+* Non-functional testing is not in scope at this point
 
 <h4>1.1.5 Risks detected</h4>
 
