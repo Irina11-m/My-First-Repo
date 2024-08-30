@@ -50,7 +50,7 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 * Roles to be allocated
 * Business Requirements to be finalized
-* Project Risks 
+* Project Risks to be identified and mitigated
 * Testing Plan to be created
 
 <h4> 1.1.3 Exit criteria defined </h4>
@@ -131,19 +131,22 @@ The following test conditions have been identified upon reviewing the business r
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed
-**[here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20for%20Aeries%20(Jira).pdf)**:
+* Functional test cases have been created based on the analysis of the specifications and can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20for%20Aeries%20(Jira).pdf):
 **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+* Tools/Infrastructure necessary for testing needs to be identified
+* Testing Data needs to be identified 
 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
-
+* Testing Data needs to be created
+* The Testing Environment needs to be validated for use through smoke testing
+* All permisions for accessing the testing environment need to be granted
 **(inserati lista de elemente care sunt evaluate in etapa de implementare)**
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: Aeries_V_1.0.0.1
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
 
