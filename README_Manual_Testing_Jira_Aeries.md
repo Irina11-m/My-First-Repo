@@ -168,12 +168,20 @@ The following bug reports have been created based on the failed tests with a hig
 
 <h3> 1.7 Test Completion</h3>
 Upon meeting the established Exit criteria, this feature will be able ‘Go Live’ once agreed by the Testing team
+<br>
+<br>
 At that point, a Test Completion Report will be sent to the stakeholders so that they can take an informed decision regarding the tested functionality.
 
 <br>
 <br>
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements, which in turn helps the stakeholders to quickly determine the level of risk associated with getting the software pushed to production.
+**(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+<br>
+In addition, it tracks the association between test cases and requirements and it also helps to trace the root cause of any bug logged in the process.
+<br>
+
+As seen the image below, all bugs can be traced to one Story, "Data Confirmation Process as a Parent":
 <br>
 
 ![Bordered Traceability Matrix](https://github.com/user-attachments/assets/108e14c6-8771-439d-9dd9-76dda4759362)
