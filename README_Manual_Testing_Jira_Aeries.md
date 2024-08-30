@@ -167,7 +167,8 @@ The following bug reports have been created based on the failed tests with a hig
 
 
 <h3> 1.7 Test Completion</h3>
-Upon meeting the established Exit criteria, this feature will be able ‘Go Live’ once agreed by the Testing team 
+Upon meeting the established Exit criteria, this feature will be able ‘Go Live’ once agreed by the Testing team
+At that point, a Test Completion Report will be sent to the stakeholders so that they can take an informed decision regarding the tested functionality.
 
 <br>
 <br>
