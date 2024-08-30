@@ -133,8 +133,8 @@ The following test conditions have been identified upon reviewing the business r
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here: 
-[embed]<file:///C:/Users/irina/OneDrive/Documents/IT%20Factory/Aeries/Jira/Jira%20Test%20Cases_Data%20Confirmation%20Process.pdf>[/embed]  
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed
+**[here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20for%20Aeries%20(Jira).pdf)**:
 **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
 
 <h3>1.5 Test Implementation</h3>
