@@ -32,7 +32,6 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 ![Story 2](https://github.com/user-attachments/assets/7485e107-c832-4e0a-9b25-7649ab2e861e)
 
 <br>
-<br>
 
 ## *Test Planning* ##
 
@@ -100,13 +99,12 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 The entry criteria defined in the Test Planning phase have been achieved and the test process can be initiated.
 
 <h3>1.2 Test Monitoring and Control<h3>
-
-The testing process will be closely monitored to make sure everything is on track and all factors will be taken into consideration to ensure a smooth execution.
-In case issues arise that might affect test completion according to the deadline, then further control measures will be taken to mitigate or lower such risks.
-Based on ongoing status reports, testing and will be planned and replanned in the alloted timeframe.
+<h4></h4> -> The testing process will be closely monitored to make sure everything is on track and all factors will be taken into consideration to ensure a smooth execution.<br>
+-> In case issues arise that might affect test completion according to the deadline, then further control measures will be taken to mitigate or lower such risks. <br>
+-> Based on ongoing status reports, testing will be planned and replanned in the alloted timeframe.<h4></h4>
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+<h4></h4>The testing process will be executed based on the application requirements.<h4></h4>
 
 According to the Early Testing Principle, the documentation and guidelines referencing "Data Confirmation" have been thoroughy analyzed, to capture the main requirements for succcessfully completing this process.
 
