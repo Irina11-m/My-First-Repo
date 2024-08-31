@@ -138,7 +138,7 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-The test cases, executed on the Cycle summary Aeries_V_1.0.0.1, can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results_Aeries%20(Jira).pdf)
+The test executions, part of Cycle Summary Aeries_V_1.0.0.1, can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results_Aeries%20(Jira).pdf)
 
 The following bug reports have been created based on the failed tests with a high priority for fixing: 
 <br>
