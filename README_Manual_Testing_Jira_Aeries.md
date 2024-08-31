@@ -140,7 +140,7 @@ The following elements are needed to be ready before the test execution phase be
 
 The test executions, part of Cycle Summary Aeries_V_1.0.0.1, can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results_Aeries%20(Jira).pdf)
 
-The following bug reports have been created based on the failed tests with a high priority for fixing: 
+The following bug reports have been created in Jira based on the failed tests with a high priority for fixing: 
 <br>
 
 ###### Bug Report 1 ######
@@ -158,12 +158,22 @@ The following bug reports have been created based on the failed tests with a hig
 ###### Bug Report 3 ######
 ![Bug 3](https://github.com/user-attachments/assets/b94f95ec-323e-4aa3-b289-94956bed86eb)
 
+<br>
+As part of the execution phase, the discovered bugs will be fixed, re-tested and followed by a regression testing of the entire "Data Confirmation" submodule 
+
+<br>
 
 <h3> 1.7 Test Completion</h3>
-Upon meeting the established Exit criteria, this feature will be able ‘Go Live’ once agreed by the Testing team
+
+In the Test Completion phase the following actions will be taken:
 <br>
+* Exit Criteria will be evaluated for completion
+* All testware will be archived and sent to stakeholders
+* All Product Risks will be documented
+* A Test Completion Report will be sent to the stakeholders 
 <br>
-A Test Completion Report will be sent to the stakeholders so that they can take an informed decision regarding the tested functionality.
+
+**The below artifacts help paint an overall clear picture of the testing process:**
 
 <br>
 
