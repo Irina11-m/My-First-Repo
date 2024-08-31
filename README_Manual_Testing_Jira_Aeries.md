@@ -35,7 +35,7 @@ The two stories below were created in Jira to cover the Data Confirmation proces
 
 ## *Test Planning* ##
 
-The Test Plan aims to describe all testing details related to the "Data Connfirmation" process
+The Test Plan aims to describe all testing details related to the "Data Confirmation" process
 
 <h4>1.1.1. Roles asigned to the project</h4>
 
