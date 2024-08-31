@@ -170,8 +170,8 @@ At that point, a Test Completion Report will be sent to the stakeholders so that
 #### Traceability Matrix ####
 
 A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements which also:
-* helps the stakeholders to quickly determine the level of risk associated with getting the software pushed to production.
-* tracks the association between test cases and requirements and it also
+* helps the stakeholders to quickly determine the level of risk associated with getting the demo version launched
+* tracks the association between test cases and requirements
 * helps to trace the root cause of any bug logged in the process
   
 <br>
