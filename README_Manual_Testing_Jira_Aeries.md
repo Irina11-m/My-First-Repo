@@ -79,19 +79,15 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
-
 * Inadequate Testing due to lack of tool knowleddge or an ineffective testing strategy
 * Resource Shortage in case of tester unavailability due to ilness which could lead insufficient testing coverage 
 * Testing Process Delays in case of issues with the testing environment which could lead to the inability to honour project timeline
 
 <h5> Product risks: </h5>
 
-* Perfomance Issues
-* Bad User Experience
-* Tool Limitations
-
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+* Perfomance Issues which could lead to a tool that crashes when used by a large number of users
+* Bad User Experience which could lead to bad user reviews diminishing trust in overall quality
+* Tool Limitations which could lead to maintanance issues
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
@@ -107,10 +103,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 According to the Early Testing Principle, the documentation and guidelines referencing "Data Confirmation" have been thoroughy analyzed, to capture the main requirements for succcessfully completing this process.
 
-The following test conditions have been identified upon reviewing the business requirements for this functionality  : <br>
-
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
-
+#### Test Conditions ####
+The following test conditions have been identified upon reviewing the business requirements for this functionality  : 
+<br>
 * Check that a Data Confirmation banner with a link to the Data Confirmation form shows up at the bottom of the page for a parent who has not completed the confirmation process
 * Check that the Data Confirmation banner is no longer displayed for parents who have completed the Data Confirmation process
 * Check that the Data Confirmation form is read-only after the confirmation process has been completed
@@ -131,7 +126,6 @@ The following test conditions have been identified upon reviewing the business r
 <h3>1.4 Test Design</h3>
 
 * Functional test cases have been created based on the analysis of the specifications and can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20for%20Aeries%20(Jira).pdf)
-**(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
 * Tools/Infrastructure necessary for testing needs to be identified
 * Testing Data needs to be identified 
 
@@ -141,14 +135,12 @@ The following elements are needed to be ready before the test execution phase be
 * Testing Data needs to be created
 * The Testing Environment needs to be validated for use through smoke testing
 * All permisions for accessing the testing environment need to be granted
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
 
 <h3>1.6. Test Execution </h3>
 
 The test cases, executed on the Cycle summary Aeries_V_1.0.0.1, can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results_Aeries%20(Jira).pdf)
 
 The following bug reports have been created based on the failed tests with a high priority for fixing: 
-**(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
 <br>
 
 ###### Bug Report 1 ######
@@ -172,12 +164,14 @@ Upon meeting the established Exit criteria, this feature will be able ‘Go Live
 At that point, a Test Completion Report will be sent to the stakeholders so that they can take an informed decision regarding the tested functionality.
 
 <br>
-<br>
 
-A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements, which in turn helps the stakeholders to quickly determine the level of risk associated with getting the software pushed to production.
-**(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
-<br>
-In addition, it tracks the association between test cases and requirements and it also helps to trace the root cause of any bug logged in the process.
+#### Traceability Matrix ####
+
+* A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements which also:
+
+* helps the stakeholders to quickly determine the level of risk associated with getting the software pushed to production.
+* tracks the association between test cases and requirements and it also
+* helps to trace the root cause of any bug logged in the process
 <br>
 
 As seen the image below, all bugs can be traced to one Story, "Data Confirmation Process as a Parent":
