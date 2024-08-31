@@ -167,11 +167,11 @@ At that point, a Test Completion Report will be sent to the stakeholders so that
 
 #### Traceability Matrix ####
 
-* A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements which also:
-
+A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements which also:
 * helps the stakeholders to quickly determine the level of risk associated with getting the software pushed to production.
 * tracks the association between test cases and requirements and it also
 * helps to trace the root cause of any bug logged in the process
+  
 <br>
 
 As seen the image below, all bugs can be traced to one Story, "Data Confirmation Process as a Parent":
@@ -181,14 +181,17 @@ As seen the image below, all bugs can be traced to one Story, "Data Confirmation
 
 <br>
 
-The test execution chart was generated and can be found below:
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+#### Test Execution Chart ####
+
+A Test Execution Chart was generated and can be found below:
 <br>
 ![Bordered Jira PieChart Report](https://github.com/user-attachments/assets/3348f42f-05cb-4855-9490-bb8193a07fac)
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+<br>
 
-Also, a Risk Matrix was put together to show a full picture of both Project and Products risks identified in relation to this specific functionality across the Demo Parent and Admin Portals:
+#### Risk Matrix ####
+
+A Risk Matrix was put together to show a full picture of both Project and Products risks identified in relation to this specific functionality across the Demo Parent and Admin Portals:
 
 <br>
 
