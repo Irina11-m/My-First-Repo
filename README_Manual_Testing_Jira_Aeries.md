@@ -125,7 +125,7 @@ The following test conditions have been identified upon reviewing the business r
 
 <h3>1.4 Test Design</h3>
 
-* Functional test cases have been created based on the analysis of the specifications and can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps%20for%20Aeries%20(Jira).pdf)
+* Functional test cases have been created based on the analysis of the specifications and can be accessed [here](https://github.com/Irina11-m/My-Repo/blob/main/Zephyr%20Test%20Steps_Aeries%20(Jira).pdf)
 * Tools/Infrastructure necessary for testing needs to be identified
 * Testing Data needs to be identified 
 
