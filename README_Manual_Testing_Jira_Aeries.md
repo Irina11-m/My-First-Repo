@@ -43,7 +43,7 @@ The Test Plan aims to describe all testing details related to the "Data Confirma
 |----------------------|---------------------|
 | Tom Smith            | Project Manager     |
 | Coleen Howard        | Product Owner       |
-| Andrew Hay           | Software Developer  |
+| Andrew Hay           | Software Development Lead  |
 | Irina-Mihaela Luca   | QA Engineer         |    
 
 
