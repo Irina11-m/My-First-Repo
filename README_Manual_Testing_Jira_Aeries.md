@@ -39,12 +39,13 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 <h4>1.1.1. Roles asigned to the project</h4>
 
-<ul>
-  <li>Project manager -  Tom Smith</li>
-  <li>Product owner - Coleen Howard</li>
-  <li>Software developer - Andrew Hay</li>
-  <li>QA Engineer - Irina Mihaela Luca</li>
-</ul>
+| Team Member          | Responsibility      |                     
+|----------------------|---------------------|
+| Tom Smith            | Project Manager     |
+| Coleen Howard        | Product Owner       |
+| Andrew Hay           | Software Developer  |
+| Irina-Mihaela Luca   | QA Engineer         |    
+
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
@@ -65,13 +66,11 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
 * All tests in scope are related to the "Data Confirmation" process and they are functional tests meant to capture the end to end behaviour of the Data Confirmation Form from information input to final submission.
 * All tests will be done using the Chrome browser.
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
 * The testing process will not include other Parent Portal/Admin Portal functionalities.
 * No mobile testing will be done
 * Non-functional testing is not in scope at this point
@@ -82,9 +81,9 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 **(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
 
-* Inadequate Testing
-* Resource Shortage
-* Testing Process Delays
+* Inadequate Testing due to lack of tool knowleddge or an ineffective testing strategy
+* Resource Shortage in case of tester unavailability due to ilness which could lead insufficient testing coverage 
+* Testing Process Delays in case of issues with the testing environment which could lead to the inability to honour project timeline
 
 <h5> Product risks: </h5>
 
