@@ -151,8 +151,6 @@ The following bug reports have been created in Jira based on the failed tests wi
 ###### Bug Report 2 ######
 ![Bug 2](https://github.com/user-attachments/assets/4dd9eb0d-3cfa-427a-9876-cf98f92af71b)
 
-
-
 <br>
 
 ###### Bug Report 3 ######
