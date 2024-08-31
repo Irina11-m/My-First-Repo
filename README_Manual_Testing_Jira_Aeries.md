@@ -79,7 +79,7 @@ The Test Plan aims to describe all testing details related to the "Data Connfirm
 
 <h5>Project risks:</h5>
 
-* Inadequate Testing due to lack of tool knowleddge or an ineffective testing strategy
+* Inadequate Testing due to lack of tool knowledge or an ineffective testing strategy
 * Resource Shortage in case of tester unavailability which could lead to insufficient testing coverage 
 * Testing Process Delays in case of issues with the testing environment which could lead to the inability to honour project timeline
 
