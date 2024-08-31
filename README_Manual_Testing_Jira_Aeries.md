@@ -149,7 +149,9 @@ The following bug reports have been created based on the failed tests with a hig
 <br>
 
 ###### Bug Report 2 ######
-![Bug 2](https://github.com/user-attachments/assets/1b9996e4-14b9-41fa-8e70-f58386853f38)
+![Bug 2](https://github.com/user-attachments/assets/4dd9eb0d-3cfa-427a-9876-cf98f92af71b)
+
+
 
 <br>
 
