@@ -177,14 +177,20 @@ In the Test Completion phase the following actions will be taken:
 
 #### Traceability Matrix ####
 
-A Traceability Matrix is used as well to show the level of testing coverage in relation to business requirements which also:
-* helps the stakeholders to quickly determine the level of risk associated with getting the demo version launched
-* tracks the association between test cases and requirements
-* helps to trace the root cause of any bug logged in the process
-  
+A Traceability Matrix was generated as well to show that all formulated test conditions for the "Data Confirmation" process are covered by a test case.
 <br>
 
-As seen the image below, all bugs can be traced to one Story, "Data Confirmation Process as a Parent":
+There are two sets of test cases, each set linked to a Story:
+* Data Confirmation Process as a Parent 
+* Data Confirmation Process as an Admin/Teacher
+
+This linkage further helps track the root cause of the bugs logged in the process.
+
+It can be clearly gathered from the Matrix that the Data Confirmation process works as expected from a teacher's perspective, since all test cases related to the Story "Data Confirmation Process as an Admin/Teacher" are PASS.
+
+In contrast, there are 3 test cases with FAIL status related to the Story "Data Confirmation Process as a Parent" and a defect is linked to each of the failed test cases.
+
+The below Traceability Matrix clearly shows that each functionality extracted from the business requirements is mapped to a test case and the result of each executed test case is displayed along with a bug report where applicable:
 <br>
 
 ![Bordered Traceability Matrix](https://github.com/user-attachments/assets/108e14c6-8771-439d-9dd9-76dda4759362)
