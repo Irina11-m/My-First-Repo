@@ -188,7 +188,7 @@ This linkage further helps track the root cause of the bugs logged in the proces
 
 It can be clearly gathered from the Matrix that the Data Confirmation process works as expected from a teacher's perspective, since all test cases related to the Story "Data Confirmation Process as an Admin/Teacher" are PASS.
 
-In contrast, there are 3 test cases with FAIL status related to the Story "Data Confirmation Process as a Parent" and a defect is linked to each of the failed test cases.
+In contrast, there are 3 test cases with FAIL status related to the Story "Data Confirmation Process as a Parent" and a Defect is linked to each of the failed test cases.
 
 The below Traceability Matrix clearly shows that each functionality extracted from the business requirements is mapped to a test case and the result of each executed test case is displayed along with a bug report where applicable:
 <br>
